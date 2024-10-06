@@ -1,0 +1,1 @@
+del /s *.class && javac Start.java && java Start
